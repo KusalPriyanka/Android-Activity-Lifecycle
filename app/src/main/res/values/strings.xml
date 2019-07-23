@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LabSheet3App</string>
+    <string name="msg1">This is my first text</string>
+    <string name="msg2">This is my second text</string>
+    <string name="Hello">You Press the button</string>
+    <string name="btn_click">Click Me</string>
+</resources>
